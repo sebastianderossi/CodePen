@@ -23,7 +23,10 @@ The code found here is free for anyone to use but feel free to give me a shout o
 
 Here are a few screenshots from this repo!
 
-![ScreenShot](https://raw.github.com/sebastianderossi/CodePen/master/stay-on-target/TrenchRun.gif)   
+# Stay On Target!
+![ScreenShot](https://raw.github.com/sebastianderossi/CodePen/master/stay-on-target/TrenchRun.gif) 
+
+# Toe Licker! (redux) 
 ![ScreenShot](https://raw.github.com/sebastianderossi/CodePen/master/toelicker/ToeLicker.gif)      
 
 
