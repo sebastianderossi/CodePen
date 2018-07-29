@@ -4,6 +4,8 @@ CodePen public Repo
 
 # Stay on Target!
 
+![ScreenShot](https://raw.github.com/sebastianderossi/CodePen/master/stay-on-target/TrenchRun.gif) 
+
 A Pen created at CodePen.io. You can find this one at https://codepen.io/derossi_s/pen/aYdaRE.
 
 Inspired by 'X-Wing Targeting Computer' from the very talented @KristopherVanSant
