@@ -27,7 +27,7 @@ Here are a few screenshots from this repo!
 ![ScreenShot](https://raw.github.com/sebastianderossi/CodePen/master/stay-on-target/TrenchRun.gif) 
 
 # Toe Licker! (redux) 
-![ScreenShot](https://raw.github.com/sebastianderossi/CodePen/master/toelicker/ToeLicker.gif)      
+![ScreenShot](https://cdn.rawgit.com/sebastianderossi/CodePen/e271ef11/toelicker/ToeLicker.gif )     
 
 
 All code is <b>copyright 2018 Sebastian DeRossi</b> and is free to use, copy, and modify under the MIT license.
