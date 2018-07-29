@@ -4,7 +4,7 @@ CodePen public Repo
 
 # Stay on Target!
 
-![ScreenShot](https://raw.github.com/sebastianderossi/CodePen/master/stay-on-target/TrenchRun.gif) 
+[![N|Solid](https://raw.github.com/sebastianderossi/CodePen/master/stay-on-target/TrenchRun.gif)](https://github.com/sebastianderossi/CodePen/tree/master/stay-on-target) 
 
 A Pen created at CodePen.io. You can find this one at https://codepen.io/derossi_s/pen/aYdaRE.
 

@@ -6,7 +6,7 @@ CodePen public Repo
 I am a HUGE @adultswim fan, everything they do is super unique & creative! Here is my ode to them, fingers crossed they see it and approve :D 
 
 When I saw "Toe Licker" I thought I have to RE-CREATE this with CreateJS.  
-![ScreenShot](https://cdn.rawgit.com/sebastianderossi/CodePen/master/toelicker/ToeLicker.png)  
+[![N|Solid](https://cdn.rawgit.com/sebastianderossi/CodePen/master/toelicker/ToeLicker.png)](https://github.com/sebastianderossi/CodePen/tree/master/toelicker) 
 
 - Check out the Original on CodePen:  https://codepen.io/adultswim/pen/WxQwoN
 

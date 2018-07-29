@@ -23,10 +23,10 @@ The code found here is free for anyone to use but feel free to give me a shout o
 Here are a few screenshots from this repo!
 
 # Stay On Target!
-![ScreenShot](https://raw.github.com/sebastianderossi/CodePen/master/stay-on-target/TrenchRun.gif) 
+[![N|Solid](https://raw.github.com/sebastianderossi/CodePen/master/stay-on-target/TrenchRun.gif)](https://github.com/sebastianderossi/CodePen/tree/master/stay-on-target)
 
 # Toe Licker! (redux) 
-![ScreenShot](https://cdn.rawgit.com/sebastianderossi/CodePen/master/toelicker/ToeLicker.png)     
+[![N|Solid](https://cdn.rawgit.com/sebastianderossi/CodePen/master/toelicker/ToeLicker.png)](https://github.com/sebastianderossi/CodePen/tree/master/toelicker)     
 
 
 All code is **copyright 2018 Sebastian DeRossi** and is free to use, copy, and modify under the MIT license.
