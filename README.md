@@ -3,12 +3,12 @@ CodePen public Repo
 
 Who?
 ----------------
-[Sebastian DeRossi](mailto:sebastian.derossi@gmail.com)   
+#### [Sebastian DeRossi](mailto:sebastian.derossi@gmail.com)   
 
-[twitter:@derossi_s](http://www.twitter.com/derossi_s)
-[youtube:www.youtube.com/sebastianderossi](http://www.youtube.com/sebastianderossi)
-[vimeo:www.vimeo.com/sderossi](http://www.vimeo.com/sderossi)  
-[codepen:www.codepen.io/derossi_s](http://www.codepen.io/derossi_s)  
+##### [twitter:@derossi_s](http://www.twitter.com/derossi_s)
+##### [youtube:www.youtube.com/sebastianderossi](http://www.youtube.com/sebastianderossi)
+##### [vimeo:www.vimeo.com/sderossi](http://www.vimeo.com/sderossi)  
+##### [codepen:www.codepen.io/derossi_s](http://www.codepen.io/derossi_s)  
 
 What?
 ----------------

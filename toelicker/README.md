@@ -13,10 +13,11 @@ When I saw "Toe Licker" I thought I have to RE-CREATE this with CreateJS.
 
 ----------------
 
-[Sebastian DeRossi](mailto:sebastian.derossi@gmail.com)    
-[twitter:@derossi_s](http://www.twitter.com/derossi_s) 
-[youtube:www.youtube.com/sebastianderossi](http://www.youtube.com/sebastianderossi)
-[vimeo:www.vimeo.com/sderossi](http://www.vimeo.com/sderossi)  
-[codepen:www.codepen.io/derossi_s](http://www.codepen.io/derossi_s)  
+#### [Sebastian DeRossi](mailto:sebastian.derossi@gmail.com)   
+
+##### [twitter:@derossi_s](http://www.twitter.com/derossi_s)
+##### [youtube:www.youtube.com/sebastianderossi](http://www.youtube.com/sebastianderossi)
+##### [vimeo:www.vimeo.com/sderossi](http://www.vimeo.com/sderossi)  
+##### [codepen:www.codepen.io/derossi_s](http://www.codepen.io/derossi_s) 
 
 All code is **copyright 2018 Sebastian DeRossi** and is free to use, copy, and modify under the MIT license.
