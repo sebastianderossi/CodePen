@@ -1,0 +1,31 @@
+html, body {
+  background-color: #4ACFF1;
+  padding:0px;
+  margin: 0px;
+  overflow: hidden;
+}
+#logo {
+  position: absolute;
+  right:0px;
+  bottom:0px;
+}
+
+#badge {
+  width:60px;
+  height:70px;
+  position: absolute;
+  left:10px;
+  bottom:10px;
+}
+#badge2 {
+  width:60px;
+  height:70px;
+  position: absolute;
+  left:70px;
+  bottom:10px;
+}
+
+canvas {
+  position: absolute;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
