@@ -3,7 +3,7 @@ CodePen public Repo
 
 # Happy Holidays to ATB Financial!
 
-[![N|Solid](https://raw.github.com/sebastianderossi/CodePen/master/happy-holidays-to-atb-financial/HappyHolidays.gif)](https://codepen.io/derossi_s/full/gorJZR/) 
+[![N|Solid](https://github.com/sebastianderossi/CodePen/blob/master/happy-holidays-to-atb-financial/HappyHolidays.gif)](https://codepen.io/derossi_s/full/gorJZR/) 
 
 A Pen created at CodePen.io. You can find this one at https://codepen.io/derossi_s/pen/gorJZR.
 
