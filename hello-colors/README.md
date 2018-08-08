@@ -1,7 +1,4 @@
 
-CodePen public Repo
-=========
-
 # Hello Colors!
 
 [![N|Solid](https://raw.github.com/sebastianderossi/CodePen/master/hello-colors/hello-colors.gif)](https://codepen.io/derossi_s/full/JMgXyG/)
